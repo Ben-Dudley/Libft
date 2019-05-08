@@ -1,0 +1,2 @@
+# libft
+ecole42
